@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Task Manager</string>
+    <string name="headline">Ваши задачи</string>
+    <string name="hint">смахните влево, чтобы удалить задачу</string>
+    <string name="new_task_title">Введите заголовок новой задачи</string>
+    <string name="button_plus_description">Добавить задачу</string>
+
+    <string-array name="task_list">
+        <item>Завершить отчет для клиента</item>
+        <item>Сделать 30-минутную тренировку</item>
+        <item>Купить продукты</item>
+        <item>Приготовить обед</item>
+        <item>Убрать в квартире</item>
+        <item>Полить цветы</item>
+        <item>Прочитать главу книги</item>
+    </string-array>
+</resources>
